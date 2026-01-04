@@ -8,7 +8,7 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
-  dart_appwrite: 20.1.0
+  dart_appwrite: 19.2.1
   # path: ^1.8.0
 
 dev_dependencies:

@@ -21,10 +21,10 @@ packages:
     dependency: "direct main"
     description:
       name: dart_appwrite
-      sha256: "50248f6e9fdfd3c1280f07071084c7de2c0d83a2b5823c84e8573ca3eb4db917"
+      sha256: "5aaca706fad5da8ed3c05640b2a813f745cf4048da9fbb32be15d5406883a8b9"
       url: "https://pub.dev"
     source: hosted
-    version: "20.1.0"
+    version: "19.2.1"
   http:
     dependency: transitive
     description:
@@ -98,4 +98,4 @@ packages:
     source: hosted
     version: "1.1.1"
 sdks:
-  dart: ">=3.5.4 <4.0.0"
+  dart: ">=3.5.0 <4.0.0"
