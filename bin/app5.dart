@@ -65,7 +65,7 @@ Future<void> prepareDatabase() async {
 Future<void> seedDatabase() async {
   var testTodo1 = {
     'title': 'Buy apples',
-    'description': 'At least 2KGs',
+    'description': 'At least 2KGs '  + DateTime.now().toString(),
     'isComplete': true
   };
 
