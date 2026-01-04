@@ -4,7 +4,7 @@ import 'package:dart_appwrite/dart_appwrite.dart';
 
 var client = Client();
 
-Future main(final context) async { 
+Future<dynamic> main(final context) async  { 
   client
     .setEndpoint("https://fra.cloud.appwrite.io/v1")
     .setProject("app5")
